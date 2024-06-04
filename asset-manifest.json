@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/John_Abraham/static/css/main.4378d895.css",
+    "main.js": "/John_Abraham/static/js/main.3cfc592b.js",
+    "static/js/453.b42cfce4.chunk.js": "/John_Abraham/static/js/453.b42cfce4.chunk.js",
+    "static/media/profile_pic.webp": "/John_Abraham/static/media/profile_pic.c44c1465ec1ad4d38a4f.webp",
+    "static/media/logo.svg": "/John_Abraham/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/John_Abraham/index.html",
+    "main.4378d895.css.map": "/John_Abraham/static/css/main.4378d895.css.map",
+    "main.3cfc592b.js.map": "/John_Abraham/static/js/main.3cfc592b.js.map",
+    "453.b42cfce4.chunk.js.map": "/John_Abraham/static/js/453.b42cfce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4378d895.css",
+    "static/js/main.3cfc592b.js"
+  ]
+}
